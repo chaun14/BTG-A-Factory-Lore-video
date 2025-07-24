@@ -16,19 +16,25 @@
 
 #### 🎯 **PRIMARY SEGMENT** - `05:17 - 05:55` _(38 seconds)_
 
-> **Quote:** _"Thank you for visiting the A factory where we stamp and make all forms of the letter A. To our left is our A processing plant where we take fresh lowercase a's and turn them into uppercase A's."_
+> **Quote:** _"thank you today for visiting the a factory where we stamp and make all forms of the letter a. to our left is our a processing plant where we take the fresh lower case a's and turn them into uppercase a's"_
 >
 > **Context:** The foundational A Factory tour establishing the core manufacturing process and world-building.
 
-#### 🎯 **SECONDARY SEGMENT** - `08:48 - 09:23` _(35 seconds)_
+#### 🎯 **SECONDARY SEGMENT** - `05:59 - 06:08` _(9 seconds)_
 
-> **Quote:** _"The A factory, the gift shops on the left... that's a gift factory for sure! We have an explosive t-shirt sale today! Why does the A factory have a gift shop? Because maybe some people like the letter A and they want to wear it on a shirt!"_
+> **Quote:** _"i don't care about the a factory i want it dead"_
+>
+> **Context:** Combat player dismissal contrasting with tour guide enthusiasm, showing tension between lore and gameplay.
+
+#### 🎯 **TERTIARY SEGMENT** - `08:48 - 09:23` _(35 seconds)_
+
+> **Quote:** _"thank you for visiting the a factory the gift shops on the left that's a bomb yes that's a gift factory for sure why it is we have an explosive t-shirt sale today why does the a factory have a gift shop why because maybe some people like the letter a and they want to wear it on a shirt"_
 >
 > **Context:** Gift shop discovery showing commercial expansion and capitalism commentary.
 
-#### 🎯 **TERTIARY SEGMENT** - `09:16 - 09:46` _(30 seconds)_
+#### 🎯 **QUATERNARY SEGMENT** - `09:16 - 09:46` _(30 seconds)_
 
-> **Quote:** _"Don't argue with capitalism, maybe you need a gift... get it? A gift! I'm here all week, make sure to tip your waiter!"_
+> **Quote:** _"don't argue with capitalism maybe you need a gift get it a gift i'm here all week make sure the tip your waiter"_
 >
 > **Context:** Classic pun delivery and tour guide humor finale.
 
@@ -238,7 +244,7 @@
 
 #### 🎯 **PRIMARY SEGMENT** - `00:00 - 00:10` _(10 seconds)_
 
-> **Quote:** _"also I heard the a factory is under investigation by OSHA... it was something about an italicized a it leaned over too far and crushed a worker"_
+> **Quote:** _"also I heard the a factory is under investigation by OSHA it was something about an italicized a it leaned over too far and crushed a worker"_
 >
 > **Context:** Federal investigation following catastrophic automation failure that injured workers.
 
@@ -300,13 +306,31 @@
 
 `Video ID: eBIwTASAi3s`
 
-**🎬 [YouTube Link](https://www.youtube.com/watch?v=eBIwTASAi3s&t=1624)** _(Starts at 27:04)_
+**🎬 [YouTube Link](https://www.youtube.com/watch?v=eBIwTASAi3s&t=1612)** _(Starts at 26:52)_
 
-#### 🎯 **PRIMARY SEGMENT** - `27:04 - 27:16 & 32:46 - 32:57` _(23 seconds total)_
+#### 🎯 **PRIMARY SEGMENT** - `26:52 - 26:59` _(7 seconds)_
 
-> **Quote:** _"Welcome back to the another exciting summer season of the Aactory Tours... We're abandoning the A factory and going to the Bravo factory... I think the B factory has better food"_
+> **Quote:** _"I heard the A factory is having a lowercase A special just for us. It only makes sense we get this map for 1,000 ground forces videos"_
 >
-> **Context:** Successful seasonal tourism followed by strategic relocation to superior B Factory facilities.
+> **Context:** Exclusive product offering showing A Factory's pivot to specialized lowercase A production and tourism operations.
+
+#### 🎯 **SECONDARY SEGMENT** - `27:04 - 27:16` _(12 seconds)_
+
+> **Quote:** _"Welcome back to the another exciting summer season of the Aactory Tours where we have a special on all forms of lowercase A's, including bold and italicized"_
+>
+> **Context:** Summer tourism program launch showcasing successful seasonal operations and comprehensive product line.
+
+#### 🎯 **TERTIARY SEGMENT** - `32:46 - 32:57` _(11 seconds)_
+
+> **Quote:** _"We're abandoning the A factory and going to the Bravo factory. I don't think the B point is safe either, Jim. At this point, I think it's the fact that we're all together. I think the B factory has better food, personally."_
+>
+> **Context:** Strategic relocation decision based on competitive market analysis and worker quality of life considerations.
+
+#### 🎯 **QUATERNARY SEGMENT** - `33:02 - 33:08` _(6 seconds)_
+
+> **Quote:** _"How y'all doing? Welcome to the B factory. We make all farms the letter B."_
+>
+> **Context:** B Factory introduction showing regional character differences and agricultural theming versus A Factory's industrial focus.
 
 ---
 
@@ -374,9 +398,9 @@
 
 ### 📈 **Project Statistics**
 
-- **Total Runtime:** ~8 minutes of key segments spanning 2021-2025
+- **Total Runtime:** ~10 minutes of key segments spanning 2021-2025
 - **Videos Covered:** 18 videos across 4+ years
-- **Segments Available:** 35+ timestamped segments with multiple priority levels
+- **Segments Available:** 38+ timestamped segments with multiple priority levels
 
 ### 🎭 **Narrative Arc**
 

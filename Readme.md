@@ -89,7 +89,7 @@ git/
 | ----------------------------- | ------------------------ |
 | **Total Videos Analyzed**     | 21 videos                |
 | **Time Span Covered**         | 2021-2025 (4+ years)     |
-| **Compilation Segments**      | 35+ timestamped segments |
+| **Compilation Segments**      | 38+ timestamped segments |
 | **Estimated Montage Runtime** | ~4-9 minutes             |
 | **Historical Timeline**       | 150+ years (1875-2025)   |
 | **Analysis Files**            | 21 detailed breakdowns   |

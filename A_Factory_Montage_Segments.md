@@ -160,13 +160,19 @@
 
 `Video ID: 96CihFFCynY`
 
-**🎬 [YouTube Link](https://www.youtube.com/watch?v=96CihFFCynY&t=188)** _(Starts at 3:08)_
+**🎬 [YouTube Link](https://www.youtube.com/watch?v=96CihFFCynY&t=170)** _(Starts at 2:50)_
 
-#### 🎯 **PRIMARY SEGMENT** - `03:08 - 03:14` _(6 seconds)_
+#### 🎯 **PRIMARY SEGMENT** - `02:50 - 03:17` _(27 seconds)_
 
-> **Quote:** _"so they're closing down the a factory because it's too profitable and too popular"_
+> **Quote:** _"to the Sea Depot um well nobody likes the sea Depot well you know that now now we have too many se's everybody's going to the a factory and it's not got enough output and we've got we've got 300,000 tons of unused C's so they're closing down the a factory because it's too profitable and too popular"_
 >
-> **Context:** Paradoxical business decision revealing the facility closure was due to excessive success, not failure.
+> **Context:** Complete economic analysis revealing Sea Depot (C Factory) unpopularity, A Factory overcrowding, massive C inventory surplus, and paradoxical closure due to excessive success.
+
+#### 🎯 **SECONDARY SEGMENT** - `03:49 - 03:59` _(10 seconds)_
+
+> **Quote:** _"you could be really ambitious at the a factory I want to go to the C Depot now I just want to use words that start with a see myself out"_
+>
+> **Context:** Player interest in visiting C Depot facility showing interconnected letter factory network and wordplay humor.
 
 ---
 

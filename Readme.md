@@ -26,6 +26,7 @@ git/
 ```
 
 ### 🔗 **Quick Navigation Links**
+
 - **📋 [A Factory Montage Segments](./A_Factory_Montage_Segments.md)** - Ready-to-edit video compilation
 - **📚 [Complete A Factory Timeline](./Complete_A_Factory_Timeline.md)** - Historical documentation
 - **📂 [Raw Subtitle Files](./raw_sub_files/)** - Original .srt source files

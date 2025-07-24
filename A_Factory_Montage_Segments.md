@@ -374,7 +374,7 @@
 
 ### 📈 **Project Statistics**
 
-- **Total Runtime:** ~4 minutes of key segments spanning 2021-2025
+- **Total Runtime:** ~8 minutes of key segments spanning 2021-2025
 - **Videos Covered:** 18 videos across 4+ years
 - **Segments Available:** 35+ timestamped segments with multiple priority levels
 
@@ -403,4 +403,4 @@ Artisanal Rebirth → Tourism Success → Environmental Crisis → Historical Re
 
 ---
 
-_📝 **Note:** This compilation represents the complete A Factory lore as documented across Bo Time Gaming's War Thunder gameplay sessions. All timestamps are unverified and are approximate,links are direct to YouTube with time codes._
+_📝 **Note:** This compilation represents the complete A Factory lore as documented across Bo Time Gaming's War Thunder gameplay sessions. All timestamps are unverified and are approximate, links are direct to YouTube with time codes._

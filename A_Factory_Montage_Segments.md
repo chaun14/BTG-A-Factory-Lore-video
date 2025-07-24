@@ -166,7 +166,7 @@
 
 > **Quote:** _"to the Sea Depot um well nobody likes the sea Depot well you know that now now we have too many se's everybody's going to the a factory and it's not got enough output and we've got we've got 300,000 tons of unused C's so they're closing down the a factory because it's too profitable and too popular"_
 >
-> **Context:** Complete economic analysis revealing Sea Depot (C Factory) unpopularity, A Factory overcrowding, massive C inventory surplus, and paradoxical closure due to excessive success.
+> **Context:** Complete economic analysis revealing Sea Depot (C Depot) unpopularity, A Factory overcrowding, massive C inventory surplus, and paradoxical closure due to excessive success. Shows the letter manufacturing network includes both factories (A Factory, B Factory) and depot/warehouse facilities (C Depot).
 
 #### 🎯 **SECONDARY SEGMENT** - `03:49 - 03:59` _(10 seconds)_
 

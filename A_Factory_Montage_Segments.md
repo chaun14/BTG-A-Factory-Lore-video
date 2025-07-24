@@ -4,7 +4,7 @@
 
 ## 📹 Video Segments for Compilation
 
-> **Navigation:** Each video includes multiple timestamped segments (PRIMARY/SECONDARY/TERTIARY) with direct YouTube links that jump to the exact moment. Total compilation runtime: ~4 minutes covering 18 videos.
+> **Navigation:** Each video includes multiple timestamped segments (PRIMARY/SECONDARY/TERTIARY) with direct YouTube links that jump to the exact moment. Covering 18 videos across 4+ years.
 
 ## ⚠️ These timestamps are just rough highlights pulled from auto-generated subtitles. They're meant to give you a starting point, not a full picture, so don’t skip the full segment! There’s definitely some great (and funny) stuff that didn’t get picked up here.
 
@@ -406,7 +406,6 @@
 
 ### 📈 **Project Statistics**
 
-- **Total Runtime:** ~10 minutes of key segments spanning 2021-2025
 - **Videos Covered:** 18 videos across 4+ years
 - **Segments Available:** 38+ timestamped segments with multiple priority levels
 

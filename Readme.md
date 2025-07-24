@@ -86,13 +86,13 @@ git/
 
 ## 📈 Project Statistics
 
-| Metric                        | Value                    |
-| ----------------------------- | ------------------------ |
-| **Total Videos Analyzed**     | 21 videos                |
-| **Time Span Covered**         | 2021-2025 (4+ years)     |
-| **Compilation Segments**      | 38+ timestamped segments |
-| **Historical Timeline**       | 150+ years (1875-2025)   |
-| **Analysis Files**            | 21 detailed breakdowns   |
+| Metric                    | Value                    |
+| ------------------------- | ------------------------ |
+| **Total Videos Analyzed** | 21 videos                |
+| **Time Span Covered**     | 2021-2025 (4+ years)     |
+| **Compilation Segments**  | 42+ timestamped segments |
+| **Historical Timeline**   | 150+ years (1875-2025)   |
+| **Analysis Files**        | 21 detailed breakdowns   |
 
 ## 🎭 Narrative Arc Overview
 

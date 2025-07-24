@@ -140,6 +140,30 @@
 >
 > **Context:** Legal liability disclaimer during dangerous military manufacturing operations.
 
+#### 🎯 **QUATERNARY SEGMENT** - `07:21 - 07:34` _(13 seconds)_
+
+> **Quote:** _"Factory well we'll uh the Beef Factory I hate those guys they're killing me they stink Jim's lost his mind"_
+>
+> **Context:** References to rival B Factory (auto-subtitled as "Beef Factory") showing competitive tensions and inter-factory warfare.
+
+#### 🎯 **QUINARY SEGMENT** - `08:23 - 08:36` _(13 seconds)_
+
+> **Quote:** _"never mind he got strafed the B Factory boys have overran the a factory"_
+>
+> **Context:** B Factory military assault and successful takeover of A Factory operations, showing escalating factory wars.
+
+#### 🎯 **SENARY SEGMENT** - `05:50 - 06:00` _(10 seconds)_
+
+> **Quote:** _"no this is the a factory come on boy we just had this whole Factor we have this whole tour about this. I'm gonna push into the factory"_
+>
+> **Context:** Player confirmation of A Factory location and tactical movement into facility during combat.
+
+#### 🎯 **SEPTENARY SEGMENT** - `06:24 - 06:35` _(11 seconds)_
+
+> **Quote:** _"use here the a factory Abrams hey what I'm laughing internally because I know it was made of this Factory historically"_
+>
+> **Context:** Meta-commentary on A Factory's historical Abrams production, showing pride in facility's manufacturing heritage.
+
 ---
 
 ### 🏛️ **2023-10-27: Ruins Tourism and Nostalgia**
@@ -407,12 +431,12 @@
 ### 📈 **Project Statistics**
 
 - **Videos Covered:** 18 videos across 4+ years
-- **Segments Available:** 38+ timestamped segments with multiple priority levels
+- **Segments Available:** 42+ timestamped segments with multiple priority levels
 
 ### 🎭 **Narrative Arc**
 
 ```
-Foundation → Expansion → Corporate Defense → Crisis → Military Pivot →
+Foundation → Expansion → Corporate Defense → Crisis → Military Pivot & Factory Wars →
 Nostalgia → Economic Paradox → Philosophy → Disillusionment →
 Halloween Hope → Tesla Automation → OSHA Crisis → Military Destruction →
 Artisanal Rebirth → Tourism Success → Environmental Crisis → Historical Revelation

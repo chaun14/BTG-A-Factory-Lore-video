@@ -6,6 +6,8 @@
 
 > **Navigation:** Each video includes multiple timestamped segments (PRIMARY/SECONDARY/TERTIARY) with direct YouTube links that jump to the exact moment. Total compilation runtime: ~4 minutes covering 18 videos.
 
+## ⚠️ These timestamps are just rough highlights pulled from auto-generated subtitles. They're meant to give you a starting point, not a full picture, so don’t skip the full segment! There’s definitely some great (and funny) stuff that didn’t get picked up here.
+
 ---
 
 ### 🏗️ **2021-07-06: Foundation - The Grand A Factory Tour**
